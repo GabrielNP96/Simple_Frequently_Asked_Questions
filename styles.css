@@ -9,6 +9,7 @@ body {
     width: 100%;
     height: 100vh;
     font-family: "Inter", sans-serif;
+    background-color: #F8FAFC;
 }
 
 .title {
@@ -25,6 +26,7 @@ h1 {
 
 h2 {
     font-size: 1.5rem;
+    margin-top:4vh;
     margin-bottom: 4vh;
 }
 .content {
@@ -33,4 +35,23 @@ h2 {
 
 li {
     margin: 2vh;
+}
+
+.content-p {
+    margin-bottom: 4vh;
+}
+
+a {
+    color: #4E80EE;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #4E80EE;
+}
+
+hr {
+    margin: auto;
+    width: 45%;
+    color: #D2D5DA;
 }
