@@ -28,5 +28,9 @@ h2 {
     margin-bottom: 4vh;
 }
 .content {
-    margin-left: 25vh;
+    margin-left: 50vh;
+}
+
+li {
+    margin: 2vh;
 }
